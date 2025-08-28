@@ -4,5 +4,10 @@ pydantic
 pydantic-settings
 uvicorn
 
+#Executar Local: 
 #pip install -r requirements.txt 
 #uvicorn app.main:app --reload
+
+#Executrar Render:
+#pip install -r requirements.txt
+#uvicorn app.main:app --host 0.0.0.0 --port $PORT   
