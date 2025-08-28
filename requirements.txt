@@ -1,7 +1,7 @@
 # Requirements
 fastapi
 pydantic
-#pydantic-settings==2.2.1
+pydantic-settings
 uvicorn
 
 #pip install -r requirements.txt 
